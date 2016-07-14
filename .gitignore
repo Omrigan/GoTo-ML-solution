@@ -1,6 +1,6 @@
 devenv/
 
 data.tar.gz
-data/
+data
 
 .ipynb_checkpoints
