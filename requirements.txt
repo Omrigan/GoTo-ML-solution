@@ -5,3 +5,6 @@ jupyter==1.0.0
 wldhx.yadisk-direct==0.0.6
 overloading==0.5.0
 tqdm==4.7.6
+tensorflow
+lasagne
+theano
